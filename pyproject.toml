@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "code-agent-homework1"
+version = "1.0.0"
+description = "A dependency-free code review and explanation agent"
+requires-python = ">=3.9"
+
